@@ -135,7 +135,7 @@ h2 {
 }
 
 .blogs h4 {
-  line-height: 2;
+  line-height: 1.5;
   margin-bottom: 10px;
 }
 
@@ -275,7 +275,7 @@ h2 {
   }
 
   .blogs {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 10px;
   }
   .courses {
